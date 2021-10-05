@@ -1,6 +1,6 @@
-# Project 3 - *Twitter*
+# Project 3 - *SimpleTwitter*
 
-**Twitter** is a basic twitter app to read your tweets.
+**SimpleTwitter** is a basic twitter app to read your tweets.
 
 Time spent: **5** hours spent in total
 
